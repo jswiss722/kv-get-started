@@ -14,6 +14,16 @@
 		{
 		"binding": "USER_NOTIFICATION",
 		"id": "b97ddf6e8c9342dcb6d951289e31408d"
+   npm install -g npm
+   npx wrangler d1 create members-db
+    npm i express @types/express
+npm create cloudflare@latest -- express-d1-app
 		}
 	]
+}
+{
+"$schema":".node_modules/wrangler/config_schema.json",
+"compatibility_flags":[
+nodejs_compat"
+]
 }
